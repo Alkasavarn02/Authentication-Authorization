@@ -15,7 +15,7 @@ const SignUp = async(req,res) => {
                     success:false,
                     data: "User already exist",
                     message: "Email already exists"
-                }
+                }``
             )
         }
 

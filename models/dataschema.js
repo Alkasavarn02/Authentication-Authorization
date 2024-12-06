@@ -11,7 +11,6 @@ const DataSchema = new mongoose.Schema(
             require:true,
         },
         password:{
-            type:String,
             require:true,
         },
         role:{
